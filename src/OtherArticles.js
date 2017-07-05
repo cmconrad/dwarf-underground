@@ -31,6 +31,9 @@ class OtherArticles extends Component {
             </div>
           </div>
     }
+    buildExternal(website,name,link){
+      //map
+    }
 }
 
 export default OtherArticles

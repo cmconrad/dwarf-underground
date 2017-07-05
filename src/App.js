@@ -18,7 +18,7 @@ class App extends Component {
           </aside>
          <OtherArticles />
         </main>
-       <Footer />  
+       <Footer />
       </div>
     );
   }
