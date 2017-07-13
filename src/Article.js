@@ -48,3 +48,5 @@ class ArticleHeader extends Component{
               </div>
   }
 }
+
+export default Article
